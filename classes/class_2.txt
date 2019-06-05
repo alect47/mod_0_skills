@@ -1,0 +1,11 @@
+classroom
+
+- size (integer)
+- number_students (integer)
+- door_locked (boolean)
+- paint_color (string)
+
+- renovate_room (changes size either by adding or subtracting volume)
+- add_student (adds student to number_student)
+- is_locked (check the value of door_locked attribute)
+- paint_room (changes paint_color)
