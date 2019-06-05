@@ -1,0 +1,53 @@
+# how to become a Turing student
+- 1 Research Turing
+  - 1.1 Google
+    - 1.1.1 Search coding bootcamps
+      - 1.1.1.1 open Google
+        - 1.1.1.1.1 turn on computer
+  - 1.2 Friends
+    - 1.2.1 Ask Friends about experiences
+      - 1.2.1.1 Contact Friends
+        - 1.2.1.1.1 Find which friends have similar experiences
+  - 1.3 Try coding weekend
+    - 1.3.1 Attend try coding weekend
+      - Schedule attendance at try coding
+- 2 Apply to Turing
+  - 2.1 Resume
+    - 2.1.1 Update and submit
+      - 2.1.1.1 Make changes to Resume
+        - 2.1.1.1.1 Open word processor
+  - 2.2 Logic test
+    - 2.2.1 Take logic test
+      - 2.2.1.1 open logic test
+      - 2.2.1.2 Study for logic test using lsat and online material
+        - 2.2.1.2.1 google search for logic test resources
+          - 2.2.1.2.1.1 open Google
+            - 2.2.1.2.1.1.1 turn on computer
+              - 2.2.1.2.1.1.1.1 Get computer
+- 3 Interview at Turing
+  - 3.1 Go to turing building and meet with interviewer
+    - 3.1.1 Study/practice for interview questions at Turing
+      - 3.1.1.1 Research/think about interview questions/topics at turing
+        - 3.1.1.1.1 Read about Turing interview process
+      - 3.1.1.2 Talk with people about interview process
+        - 3.1.1.2 Find people with experience interviewing at Turing
+      - 3.1.1.3 Schedule interview
+        - 3.1.1.3.1 Open Interview schedule like provided by turing
+- 4 Enroll at Turing
+  - 4.1 Select cohort and BE/FE
+    - 4.1.1 Figure our what dates work best
+      - 4.1.1.1 Look at calendar
+    - 4.1.2 Research BE/FE
+      - 4.1.2.1 Google BE/FE
+      - 4.1.2.2 Talk with people about BE/FE
+  - 4.2 Secure funding
+    - 4.2.1 Apply for loan
+      - 4.2.1.1 Research loan options
+        - 4.2.1.1.1 look at turing loans
+- 5 Prework
+  - 5.1 complete Mod 0
+    - 5.1.1 Attend prework sessions
+      - 5.1.1.1 Access Turing prework link
+  - 5.2 Outside work
+    - 5.2.1 Find online resources
+      - 5.2.1.1 Google Ruby etc. 
