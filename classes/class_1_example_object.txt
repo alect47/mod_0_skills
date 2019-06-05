@@ -1,0 +1,14 @@
+Alec Wells
+
+- name: Alec Wells
+- enrolled: true
+- height: 70
+- tuition_payed: false
+- outstanding_balance: 18800.0
+- deposit: 1200.0
+
+- is_enrolled: student is enrolled
+- graduate: changes value of enrolled to false
+- initials: modifies name to A.W.
+- submit_loan: changes tuition_payed to true
+- submit_deposit: subtracts 1200.0 from 20000.0
