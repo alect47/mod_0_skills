@@ -1,0 +1,11 @@
+classroom_101
+
+- size: 450
+- number_students: 20
+- door_locked: true
+- paint_color: white
+
+- renovate_room: adds 30 to size attribute
+- add_student: adds 2 to number_students attribute
+- is_locked: door is locked
+- paint_room: changes paint_color attribute to green
