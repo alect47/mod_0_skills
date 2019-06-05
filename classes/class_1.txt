@@ -1,0 +1,14 @@
+student
+
+- name (string)
+- enrolled (boolean)
+- height (integer)
+- tuition_payed (boolean)
+- outstanding_balance (float)
+- deposit (float)
+
+- is_enrolled (check the value of enrolled attribute)
+- graduate (changes value of enrolled attribute)
+- initials (converts name attribute to initials)
+- submit_loan (modify tuition_payed attribute)
+- submit_deposit (subtracts deposit from outstanding_balance)
